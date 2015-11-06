@@ -1,7 +1,7 @@
 {
   "name": "grunt-stripper",
   "description": "Strip code between comment blocks or by regex.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/dsquier/grunt-stripper",
   "author": {
     "name": "David Squier",
@@ -40,6 +40,6 @@
     "delete",
     "comment",
     "block",
-    "regex"        
+    "regex"
   ]
 }
